@@ -1,0 +1,423 @@
+﻿{
+    "Tony Stark": {
+        "Version": "1.10.1822.1",
+        "Scene": {
+            "Name": true,
+            "SupportShaderSelect": true
+        },
+        "Object": {
+            "Tony Stark": {
+                "Generation": "",
+                "Physics": {},
+                "Meshes": {
+                    "_4_hands_0_2_0_0_001_24_hands_0_2_0_0_001_24_suit_0_4_0_0_001": {
+                        "Materials": {
+                            "_4_suit_0_4_0_0_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Tony Stark.fbm/_4_suit_0_4_0_0_001_Pbr_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Specular": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Tony Stark.fbm/_4_suit_0_4_0_0_001_Pbr_Bump.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Tony Stark/Tony Stark/_4_hands_0_2_0_0_001_24_hands_0_2_0_0_001_24_suit_0_4_0_0_001/_4_suit_0_4_0_0_001_Pbr/_4_suit_0_4_0_0_001_Pbr_MetallicAlpha.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "_4_shirt_0_3_0_0_001_24_shirt_0_3_0_0_001_24_shirt_0_3_0_0_001": {
+                        "Materials": {
+                            "_4_shirt_0_3_0_0_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Tony Stark.fbm/_4_shirt_0_3_0_0_001_Pbr_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Specular": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Tony Stark.fbm/_4_shirt_0_3_0_0_001_Pbr_Bump.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Tony Stark/Tony Stark/_4_shirt_0_3_0_0_001_24_shirt_0_3_0_0_001_24_shirt_0_3_0_0_001/_4_shirt_0_3_0_0_001_Pbr/_4_shirt_0_3_0_0_001_Pbr_MetallicAlpha.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "_4_shoes_0_5_0_0_001_24_shoes_0_5_0_0_001_24_trousers_0_4_0_0_001": {
+                        "Materials": {
+                            "_4_trousers_0_4_0_0_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Tony Stark.fbm/_4_trousers_0_4_0_0_001_Pbr_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Specular": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Tony Stark/Tony Stark/_4_shoes_0_5_0_0_001_24_shoes_0_5_0_0_001_24_trousers_0_4_0_0_001/_4_trousers_0_4_0_0_001_Pbr/_4_trousers_0_4_0_0_001_Pbr_MetallicAlpha.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "_4_suit_0_4_0_0_001_24_suit_0_4_0_0_001_24_suit_0_4_0_0_001": {
+                        "Materials": {
+                            "_4_suit_0_4_0_0_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Tony Stark.fbm/_4_suit_0_4_0_0_001_Pbr_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Specular": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Normal": {
+                                        "Texture Path": "./Tony Stark.fbm/_4_suit_0_4_0_0_001_Pbr_Bump.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Tony Stark/Tony Stark/_4_suit_0_4_0_0_001_24_suit_0_4_0_0_001_24_suit_0_4_0_0_001/_4_suit_0_4_0_0_001_Pbr/_4_suit_0_4_0_0_001_Pbr_MetallicAlpha.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "_4_trouserP_0_4_0_0_001_24_trouserP_0_4_0_0_001_24_trousers_0_4_0_0_001": {
+                        "Materials": {
+                            "_4_trousers_0_4_0_0_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Tony Stark.fbm/_4_trousers_0_4_0_0_001_Pbr_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Specular": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Tony Stark/Tony Stark/_4_trouserP_0_4_0_0_001_24_trouserP_0_4_0_0_001_24_trousers_0_4_0_0_001/_4_trousers_0_4_0_0_001_Pbr/_4_trousers_0_4_0_0_001_Pbr_MetallicAlpha.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "_4_trousers_0_4_0_0_001_24_trousers_0_4_0_0_001_24_trousers_0_4_0_0_001": {
+                        "Materials": {
+                            "_4_trousers_0_4_0_0_001_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Tony Stark.fbm/_4_trousers_0_4_0_0_001_Pbr_Diffuse.jpg",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "Specular": {
+                                        "Texture Path": "",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    },
+                                    "MetallicAlpha": {
+                                        "Texture Path": "./textures/Tony Stark/Tony Stark/_4_trousers_0_4_0_0_001_24_trousers_0_4_0_0_001_24_trousers_0_4_0_0_001/_4_trousers_0_4_0_0_001_Pbr/_4_trousers_0_4_0_0_001_Pbr_MetallicAlpha.png"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "model_004_model_004_material_0_004": {
+                        "Materials": {
+                            "material_0_004_Pbr": {
+                                "Material Type": "Pbr",
+                                "MultiUV Index": 0,
+                                "Two Side": true,
+                                "Diffuse Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Ambient Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Specular Color": [
+                                    255.0,
+                                    255.0,
+                                    255.0
+                                ],
+                                "Opacity": 1.0,
+                                "Self Illumination": 0.0,
+                                "Textures": {
+                                    "Base Color": {
+                                        "Texture Path": "./Tony Stark.fbm/material_0_004_Pbr_Diffuse.png",
+                                        "Strength": 100.0,
+                                        "Offset": [
+                                            0.0,
+                                            0.0
+                                        ],
+                                        "Tiling": [
+                                            1.0,
+                                            1.0
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
